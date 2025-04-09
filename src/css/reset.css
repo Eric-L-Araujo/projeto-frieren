@@ -1,0 +1,13 @@
+/* Resets são padrões estilizados que geralmente são aplicados em toda página */
+
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Fleur+De+Leah&family=Kaisei+HarunoUmi&family=Lora:ital,wght@0,400..700;1,400..700&family=Yuji+Syuku&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
